@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans", sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+.Header {
+    width: 400px;
+    height: 815px;
+    background-color: black;
+    font-size: 100px;
+    line-height: 85px;
+}
+
+.name {
+    margin-bottom: 0;
+    font-weight: bold;
+    color: gold;
+}
+
+/* fax */
+.Info {
+    font-size: 25px;
+    line-height: 20px;
+    margin-top: 70px;
+    color:crimson
+}
+
+.fa {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+/* Links */
+.Links {
+    margin-top: 70px;
+    line-height: 15px;
+    font-size: 25px;
+    color: crimson;
+}
+
+.li {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#current {
+    font-weight: bold;
+    color: gold;
+}
+
+a {
+    color: crimson;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+/* Content */
+.writing{
+    width: 1035px;
+    height: 815px;
+    position: absolute;
+    top: 0;
+    left: 400px;
+    text-align: center;
+    font-family: "Gowun Batang", serif;
+    font-size: 25px;
+}
+
+#title{
+    font-size: 75px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.content{
+    margin-top: 50px;
+    text-align: left;
+    padding-left: 10px;
+}
+.dthead{
+    font-size: 30px;
+    text-decoration: underline;
+}
+li{
+    font-size: 25px;
+}
+dd{
+    font-size: 25px;
+}
+.opin{
+    text-align: center;
+}
