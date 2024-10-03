@@ -49,6 +49,7 @@ body {
 #current {
     font-weight: bold;
     color: gold;
+    text-decoration: none;
 }
 
 a {
