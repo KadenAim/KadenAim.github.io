@@ -87,6 +87,7 @@ a {
     position: absolute;
     transform: translate(1050px, 40px);
     border-radius: 30px;
+    z-index: -2;
 
 }
 
